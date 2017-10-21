@@ -18,7 +18,7 @@ msgstr ""
 
 msgctxt "#31101"
 msgid "items"
-msgstr "Elementos"
+msgstr "elementos"
 
 msgctxt "#31102"
 msgid "min"
@@ -30,7 +30,7 @@ msgstr "TV en directo"
 
 msgctxt "#31104"
 msgid "Used Memory"
-msgstr "Memoria usada"
+msgstr "Memoria Usada"
 
 msgctxt "#31105"
 msgid "Spotlight"
@@ -42,11 +42,11 @@ msgstr "Finaliza en"
 
 msgctxt "#31107"
 msgid "Video Stream"
-msgstr "Secuencia de vídeo"
+msgstr "Secuencia de Vídeo"
 
 msgctxt "#31108"
 msgid "Current Menu"
-msgstr "Menú actual"
+msgstr "Menú Actual"
 
 msgctxt "#31109"
 msgid "Customise home menu"
@@ -58,7 +58,7 @@ msgstr "Fondo"
 
 msgctxt "#31111"
 msgid "Show now playing video in background"
-msgstr "Mostrar reproducción activa en fondo"
+msgstr "Mostrar la reproducción activa en el fondo"
 
 msgctxt "#31112"
 msgid "Submenu"
@@ -66,11 +66,11 @@ msgstr "Submenú"
 
 msgctxt "#31113"
 msgid "No Timer"
-msgstr "Sin temporizador"
+msgstr "Sin Temporizador"
 
 msgctxt "#31114"
 msgid "Now Playing"
-msgstr "Reproduciendo ahora"
+msgstr "Reproduciendo Ahora"
 
 msgctxt "#31115"
 msgid "Show header"
@@ -78,7 +78,7 @@ msgstr "Mostrar cabecera"
 
 msgctxt "#31116"
 msgid "DVD Menu"
-msgstr "Menú del DVD"
+msgstr "Menú DVD"
 
 msgctxt "#31117"
 msgid "3D Mode"
@@ -134,11 +134,11 @@ msgstr "Widget personalizado 2"
 
 msgctxt "#31130"
 msgid "Show slideshow when no widget is set"
-msgstr "Mostrar presentación de fotos cuando no haya ningún widget activo"
+msgstr "Mostrar presentación de fotos cuando el widget no este activado"
 
 msgctxt "#31131"
 msgid "Set home background path"
-msgstr "Establecer ruta del fondo principal"
+msgstr "Establecer la ruta del fondo principal"
 
 msgctxt "#31132"
 msgid "Reset home menu shortcuts to defaults"
@@ -186,7 +186,7 @@ msgstr "Usar lista baja"
 
 msgctxt "#31143"
 msgid "Set weather fanart"
-msgstr "Establecer fanart de tiempo metereológico"
+msgstr "Establecer el fanart de tiempo meteorológico"
 
 msgctxt "#31144"
 msgid "Widgets"
@@ -194,7 +194,7 @@ msgstr ""
 
 msgctxt "#31145"
 msgid "Show weather"
-msgstr "Mostrar tiempo metereológico"
+msgstr "Mostrar tiempo meteorológico"
 
 msgctxt "#31146"
 msgid "Animate fanart"
@@ -210,11 +210,11 @@ msgstr "Ajustar la lista"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
-msgstr "Reemplazar fanart de widget por fondo principal"
+msgstr "Reemplazar el fanart del widget por el fondo principal"
 
 msgctxt "#31150"
 msgid "Set fallback image"
-msgstr "Establecer imagen de fondo"
+msgstr "Establecer la imagen de fondo"
 
 msgctxt "#31151"
 msgid "Enable TV Tunes"
@@ -234,7 +234,7 @@ msgstr "Mostrar flags multimedia"
 
 msgctxt "#31155"
 msgid "Show now playing info"
-msgstr "Mostrar información sobre reproducción activa"
+msgstr "Mostrar información sobre la reproducción activa"
 
 msgctxt "#31156"
 msgid "[B]Configure Appearance Settings[/B][CR][CR] •     Change the skin[CR] •     Set language and region[CR] •     Change file listing options[CR] •     Set up a screensaver"
@@ -254,11 +254,11 @@ msgstr "[B]Configuración de imágenes[/B][CR][CR] • Cambiar el listado de las
 
 msgctxt "#31160"
 msgid "[B]Configure Weather Settings[/B][CR][CR] •     Set up to three cities"
-msgstr "[B]Configuración del tiempo metereológico[/B][CR][CR] • Asignar localización"
+msgstr "[B]Configuración del tiempo meteorológico[/B][CR][CR] • Asignar localización"
 
 msgctxt "#31161"
 msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
-msgstr "[B]Configuración del sistema[/B][CR][CR] • Configurar y calibrar la pantalla[CR] • Configurar la salida del audio[CR] • Configurar control remoto[CR] • Ajustar opciones de ahorro de energía[CR] • Habiltar modo debugging[CR] • Ajustar bloqueo maestro"
+msgstr "[B]Configuración del sistema[/B][CR][CR] • Configurar y calibrar la pantalla[CR] • Configurar la salida del audio[CR] • Configurar control remoto[CR] • Ajustar opciones de ahorro de energía[CR] • Habilitar modo debugging[CR] • Ajustar bloqueo maestro"
 
 msgctxt "#31162"
 msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
@@ -278,7 +278,7 @@ msgstr "[B]Configuración de perfil[/B][CR][CR] • Perfiles de usuario[CR] • 
 
 msgctxt "#31166"
 msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
-msgstr "[B]Configuración del skin[/B][CR][CR] • Personalizar pantalla principal[CR] • Establecer fondo de pantalla[CR] • Configurar OSD[CR] • Activar soporte para los addons[CR] • Dehabilitar elementos de pantalla"
+msgstr "[B]Configuración del skin[/B][CR][CR] • Personalizar pantalla principal[CR] • Establecer fondo de pantalla[CR] • Configurar OSD[CR] • Activar soporte para los addons[CR] • Deshabilitar elementos de pantalla"
 
 msgctxt "#31167"
 msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
@@ -302,7 +302,7 @@ msgstr ""
 
 msgctxt "#31172"
 msgid "Show music visualisation in background"
-msgstr "Mostrar visualización de música como fondo"
+msgstr "Mostrar visualización de la música como fondo"
 
 msgctxt "#31173"
 msgid "Recently added"
@@ -334,7 +334,7 @@ msgstr "Mostrar clearlogo"
 
 msgctxt "#31180"
 msgid "Update next aired on startup"
-msgstr "Actualizar proximos eventos durante el arranque (Next Aired)"
+msgstr "Actualizar próximos eventos durante el arranque (Next Aired)"
 
 msgctxt "#31181"
 msgid "Select icon"
@@ -402,7 +402,7 @@ msgstr "Usar tema oscuro"
 
 msgctxt "#31197"
 msgid "Show weather with clock"
-msgstr "Mostrar tiempo metereológico en el reloj"
+msgstr "Mostrar tiempo meteorológico en el reloj"
 
 msgctxt "#31198"
 msgid "Cards"
@@ -502,7 +502,7 @@ msgstr "Seleccionar widget personalizado para establecerlo como ruta"
 
 msgctxt "#31222"
 msgid "Set custom widget path"
-msgstr "Configurar la ruta del widget personalizado"
+msgstr "Establecer la ruta del widget personalizado"
 
 msgctxt "#31223"
 msgid "Upcoming Movies"
@@ -562,7 +562,7 @@ msgstr "Reproduciendo..."
 
 msgctxt "#31237"
 msgid "Use minimal busy loader in header"
-msgstr "Usar en cabecera indicador de ocupado minimo"
+msgstr "Usar en cabecera indicador de ocupado mínimo"
 
 msgctxt "#31238"
 msgid "Select highlight color"
@@ -598,7 +598,7 @@ msgstr "Estilo Clásico"
 
 msgctxt "#31246"
 msgid "Show icon media flags"
-msgstr "Mostrar flags iconos multimedia"
+msgstr "Mostrar flags de iconos multimedia"
 
 msgctxt "#31247"
 msgid "Home menu style"
@@ -618,11 +618,11 @@ msgstr "Vertical"
 
 msgctxt "#31251"
 msgid "Weather Fanart"
-msgstr "Fanart de tiempo metereológico"
+msgstr "Fanart de tiempo meteorológico"
 
 msgctxt "#31252"
 msgid "Weather Forecast"
-msgstr "Pronóstico del tiempo metereológico"
+msgstr "Pronóstico del tiempo meteorológico"
 
 msgctxt "#31253"
 msgid "Always display info and osd controls on music visualisation"
@@ -654,7 +654,7 @@ msgstr ""
 
 msgctxt "#31260"
 msgid "Set weather icons"
-msgstr "Configurar iconos de tiempo metereológico"
+msgstr "Establecer iconos de tiempo meteorológico"
 
 msgctxt "#31261"
 msgid "Widget aspect"
@@ -698,7 +698,7 @@ msgstr "Decodificador de video"
 
 msgctxt "#31280"
 msgid "Pixel format"
-msgstr "Formato de píxel"
+msgstr "Formato de aspecto"
 
 msgctxt "#31281"
 msgid "Awards"
@@ -778,7 +778,7 @@ msgstr "Ultimo Episodio"
 
 msgctxt "#31301"
 msgid "Last Episode Guest Stars"
-msgstr "Invitados del Ultimo Episodio"
+msgstr "Invitados del Último Episodio"
 
 msgctxt "#31302"
 msgid "Animated Fanart"
